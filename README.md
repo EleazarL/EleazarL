@@ -1,16 +1,41 @@
-## Hi there 👋
+¡Hola! 👋 Soy Eleazar
+🚀 Sobre mí
 
-<!--
-**EleazarL/EleazarL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full-Stack apasionado por crear soluciones web innovadoras
+🛍️ Especializado en sistemas de e-commerce y aplicaciones web robustas
+🤖 Explorador de tecnologías de IA y automatización
+🎯 Enfocado en escribir código limpio, eficiente y escalable
 
-Here are some ideas to get you started:
+🔥 Proyectos Destacados
+🛍️ E-commerce para Salón de Fiestas
+Sistema completo de gestión y ventas desarrollado con Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack: Laravel, MySQL, PHP
+Características: Gestión de productos, carrito de compras, panel admin
+
+🤖 Chatbot con IA
+Chatbot inteligente desarrollado con Django y tecnologías de IA
+
+Tech Stack: Django, Python, AI/ML
+Características: Procesamiento de lenguaje natural, respuestas inteligentes
+
+🛒 Sistema de Carrito de Compras
+Aplicación web moderna con Laravel y Vue.js
+
+Tech Stack: Laravel, Vue.js, MySQL
+Características: SPA, API REST, interfaz reactiva
+
+📈 Actividad Reciente
+
+🔨 127 contribuciones en el último año
+📦 Trabajando activamente en 4 repositorios
+🚀 Creando soluciones web innovadoras
+
+🎯 Actualmente
+
+📚 Perfeccionando mis habilidades en Vue.js
+🤖 Explorando más sobre IA y Machine Learning
+🌐 Desarrollando nuevos proyectos de e-commerce
+
+📫 Conecta conmigo
+eleazarlandetae@gmail.com
